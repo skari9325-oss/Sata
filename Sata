@@ -1401,3 +1401,693 @@ ADDITIONAL UNIQUE APP FEATURES:
 - RAINBOW VOICE NOTES: Audio message waveforms pulse and dance in a glowing neon rainbow color when played.
 
 Compile everything into a 100% clean production build, fully ready to be exported into a mobile .APK file for Google Play Store.
+[14/10, 6:46 pm] sagerkumarsager745 Up: Rebuild the complete 'Rainbow Royal Star App' with a premium pure pitch-black Dark UI and intense glowing neon rainbow gradient effects. Ensure the final code has absolutely zero errors.
+
+1. ADVANCED INSTAGRAM-STYLE CREATOR & POST LAYOUT: Clicking the top '+' button opens an elegant bottom-sheet menu showing 'Reel', 'Edits', 'Post', and 'Story' options with neon rainbow icons. Implement a full 'New Post' screen with media library access and multi-crop features to publish educational, blog, and math trick videos smoothly into the database.
+2. HOME & REELS FEED: A vertical scroll-snap video feed with a neon-glowing rainbow screen border. Double-tap triggers a large glowing rainbow star and heart particle animation.
+3. CHAT & MESSAGE SCREEN: A clean DM inbox. Message bubbles have a shining rainbow gradient background, and active friends show radiant neon status rings.
+4. USER PROFILE PAGE: A full grid layout with post counts, followers counter, and a profile picture frame wrapped in a rotating glowing rainbow linear gradient.
+5. GLOBAL STATE LOCALIZATION: A multi-level global language dropdown in settings supporting international, regional, and state-specific dialects for all countries worldwide.
+
+AUTOMATED 80-20 BUSINESS WALLET & MOVING AI SECURITY SHIELD:
+- Fix the platform commission at exactly 20% net profit for the app owner (synchronized with the Union Bank backend system) and 80% distributed automatically among all creators.
+- Implement a moving AI firewall that automatically locks and encrypts every creator's 50 followers and 1,000+ views counter from data theft.
+- If any unauthorized hacking attempt is detected, trigger an automatic response on the intruder's screen flashing a red alert: "WARNING: ACCESS DENIED. HAZARD DETECTED!"
+- Implement a secure Admin Kill-Switch feature: A remote self-destruct function hidden in the settings to wipe all data instantly if unauthorized access is detected.
+
+ADDITIONAL UNIQUE APP FEATURES:
+- MOOD-BASED UI: Rainbow gradient background glow changes intensity dynamically based on user interaction.
+- STAR REWARDS: A royal star icon counter on reels that animates and increases whenever a video is liked.
+- GHOST CHAT: A privacy toggle where messages dissolve into glowing star dust after being read.
+- LOCAL P2P SHARING: Close-range offline Peer-to-Peer video transfer using Wi-Fi Direct simulation within 10-20 meters without internet.
+- BATTERY EFFICIENCY MODE: Optimize rainbow animations to automatically lower brightness when power is low.
+- RAINBOW VOICE NOTES: Audio message waveforms pulse and dance in a glowing neon rainbow color when played.
+
+Compile everything into a 100% clean production build, fully ready to be exported into a mobile .APK file for Google Play Store.
+[15/10, 11:31 am] sagerkumarsager745 Up: <!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sata - Reality Engine</title>
+    <style>
+        body {
+            background-color: #020204;
+            color: #ffffff;
+            font-family: 'Segoe UI', Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+        }
+        .studio-container {
+            width: 360px;
+            background: #080912;
+            border-radius: 35px;
+            padding: 20px;
+            box-shadow: 0 0 40px rgba(0, 255, 255, 0.25);
+            border: 3px solid transparent;
+            border-image: linear-gradient(135deg, #ff007f, #7f00ff, #00ffff) 1;
+        }
+        .studio-title {
+            font-size: 22px;
+            font-weight: 900;
+            text-align: center;
+            margin-bottom: 25px;
+            background: linear-gradient(to right, #00ffff, #ff007f);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-shadow: 0 0 10px rgba(0, 255, 255, 0.4);
+        }
+        .fx-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+        }
+        .fx-card {
+            background: #111322;
+            border: 1px solid #22263f;
+            border-radius: 18px;
+            padding: 15px;
+            text-align: center;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+        .fx-card:hover {
+            border-color: #ff007f;
+            box-shadow: 0 0 15px rgba(255, 0, 127, 0.4);
+            transform: translateY(-3px);
+        }
+        .fx-icon {
+            font-size: 28px;
+            margin-bottom: 10px;
+            display: inline-block;
+        }
+        .fx-name {
+            font-size: 14px;
+            font-weight: bold;
+            color: #ffffff;
+        }
+        .fx-desc {
+            font-size: 11px;
+            color: #7c809b;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="studio-container">
+        <div class="studio-title">AI Reality FX Engine</div>
+        
+        <div class="fx-grid">
+            <!-- फीचर 1: होलोग्राफिक बैकग्राउंड -->
+            <div class="fx-card">
+                <span class="fx-icon" style="filter: drop-shadow(0 0 8px #00ffff);">🌌</span>
+                <div class="fx-name">Holo-Space FX</div>
+                <div class="fx-desc">वीडियो बैकग्राउंड को सीधे लाइव 3D स्पेस गैलेक्सी में बदलें</div>
+            </div>
+
+            <!-- फीचर 2: रेनबो ऑरा नियॉन लाइट (आपके थीम के अनुसार) -->
+            <div class="fx-card">
+                <span class="fx-icon" style="filter: drop-shadow(0 0 8px #ff007f);">🌈</span>
+                <div class="fx-name">Rainbow Aura</div>
+                <div class="fx-desc">क्रिएटर के चारों तरफ लाइव चमकती सतरंगी रोशनी का इफ़ेक्ट</div>
+            </div>
+
+            <!-- फीचर 3: एंटी-फेक व्यू प्रोटेक्टर (ईमानदारी जांच इंजन) -->
+            <div class="fx-card">
+                <span class="fx-icon" style="filter: drop-shadow(0 0 8px #00ff00);">👁️</span>
+                <div class="fx-name">HonestView Core</div>
+                <div class="fx-desc">बॉट और नकली व्यूज को रोकने वाला ऑटो-ट्रैकर शील्ड</div>
+            </div>
+
+            <!-- फीचर 4: सिनेमाई न्यूरल फिल्टर -->
+            <div class="fx-card">
+                <span class="fx-icon" style="filter: drop-shadow(0 0 8px #ffff00);">🎬</span>
+                <div class="fx-name">Neural Cinema</div>
+                <div class="fx-desc">एक क्लिक में साधारण मोबाइल वीडियो को 8K मूवी लुक दें</div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
+[15/10, 11:44 am] sagerkumarsager745 Up: <!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rainbow Royal Star - Core UI</title>
+    <style>
+        body {
+            background-color: #030306;
+            color: #ffffff;
+            font-family: 'Segoe UI', Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            overflow-x: hidden;
+        }
+
+        /* 📱 आपका ओरिजिनल मोबाइल स्क्रीन फ्रेम (चमकती सतरंगी बॉर्डर) */
+        .master-phone-frame {
+            width: 360px;
+            height: 760px;
+            background: #000000;
+            border-radius: 35px;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 0 35px rgba(0, 255, 255, 0.3);
+            border: 3px solid transparent;
+            border-image: linear-gradient(45deg, #ff007f, #7f00ff, #00ffff, #ffff00) 1;
+        }
+
+        /* ⬆️ होम स्क्रीन का टॉप हेडर (दिल और चैट बटन) */
+        .home-top-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 20px;
+            border-bottom: 1px solid #12131a;
+            background: #06070d;
+        }
+        .header-title {
+            font-size: 20px;
+            font-weight: 900;
+            background: linear-gradient(to right, #ff007f, #00ffff, #ffff00);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-shadow: 0 0 10px rgba(0, 255, 255, 0.3);
+        }
+        .header-right-icons {
+            display: flex;
+            gap: 18px;
+            font-size: 22px;
+            cursor: pointer;
+        }
+        .icon-chat { color: #00ffff; text-shadow: 0 0 8px #00ffff; }
+        .icon-heart { color: #ff007f; text-shadow: 0 0 8px #ff007f; }
+
+        /* 🎬 रील्स का कैमरा और टॉप बार लेआउट */
+        .reels-quick-bar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 20px;
+            background: #090b14;
+            border-bottom: 1px solid #1a1a2e;
+        }
+        .reels-text { font-weight: bold; color: #fff; font-size: 16px; }
+        .camera-btn { font-size: 20px; cursor: pointer; }
+
+        /* 🌟 मुख्य फ़ीड एरिया (चमकता स्टार प्रोफाइल) */
+        .main-content-scroll {
+            padding: 15px;
+            overflow-y: auto;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+        .creator-account-row {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        /* 🌟 गोल घेरा हटाकर बनाया गया असली सतरंगी चमकता स्टार प्रोफाइल */
+        .glowing-star-frame {
+            width: 48px;
+            height: 48px;
+            background: linear-gradient(45deg, #ffff00, #ff007f, #00ffff);
+            clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            filter: drop-shadow(0 0 8px #ffff00);
+        }
+        .star-user-photo {
+            width: 30px;
+            height: 30px;
+            background: #050508;
+            clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+            color: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 12px;
+        }
+
+        /* महाशक्तिशाली वीडियो डिस्प्ले और धमाका ज़ोन */
+        .post-display-zone {
+            width: 100%;
+            height: 240px;
+            background: #070812;
+            border-radius: 20px;
+            border: 1px solid #1a1a35;
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: #444;
+            overflow: hidden;
+        }
+
+        /* 🎈 ऊपर उठने वाले जादुई सतरंगी दिल */
+        .burst-heart {
+            position: absolute;
+            font-size: 35px;
+            pointer-events: none;
+            animation: floatUpAndFade 0.8s ease-out forwards;
+            z-index: 99;
+        }
+        @keyframes floatUpAndFade {
+            0% { transform: translate(0, 0) scale(0.5); opacity: 1; }
+            100% { transform: translate(var(--dirX), -160px) scale(1.6) rotate(var(--rot)); opacity: 0; }
+        }
+
+        /* 👑 नीचे का जादुई एक्शन और कमेंट पैनल (लाइक + इमोजी इंजन) */
+        .action-control-panel {
+            background: #090a14;
+            padding: 15px;
+            border-top: 1px solid #15182b;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        .rainbow-like-trigger {
+            font-size: 32px;
+            cursor: pointer;
+            user-select: none;
+            display: inline-block;
+            width: 40px;
+            filter: drop-shadow(0 0 5px rgba(255,255,255,0.2));
+            transition: transform 0.1s;
+        }
+        .rainbow-like-trigger:active { transform: scale(0.8); }
+
+        /* 💬 कलर बदलने वाला कमेंट इमोजी बार */
+        .emoji-customizer-bar {
+            display: flex;
+            gap: 12px;
+            background: #121424;
+            padding: 8px 12px;
+            border-radius: 12px;
+            border: 1px solid #1f223d;
+        }
+        .custom-emoji { font-size: 22px; cursor: pointer; user-select: none; transition: 0.3s; }
+        .custom-emoji.rainbow-active {
+            animation: rainbowGlow 2s linear infinite;
+        }
+        @keyframes rainbowGlow {
+            0% { filter: hue-rotate(0deg) drop-shadow(0 0 8px #00ffff); }
+            100% { filter: hue-rotate(360deg) drop-shadow(0 0 8px #00ffff); }
+        }
+
+        /* ⬇️ नीचे का सटीक 5-आइकॉन नेविगेशन बार (सितारों की बारिश के साथ) */
+        .perfect-bottom-nav {
+            background: #05060b;
+            display: flex;
+            justify-content: space-around;
+            padding: 15px 0;
+            border-top: 1px solid #12131f;
+        }
+        .bottom-icon-wrapper {
+            font-size: 24px;
+            cursor: pointer;
+            position: relative;
+            user-select: none;
+        }
+        .sparkle-star {
+            position: absolute;
+            color: #ffff00;
+            font-size: 12px;
+            text-shadow: 0 0 5px #ff007f;
+            pointer-events: none;
+            animation: popOutStar 0.5s ease-out forwards;
+        }
+        @keyframes popOutStar {
+            0% { transform: translate(0, 0) scale(0); opacity: 1; }
+            100% { transform: translate(var(--sx), var(--sy)) scale(1.3); opacity: 0; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="master-phone-frame">
+        
+        <!-- 1. टॉप हेडर (दिल और चैट बटन) -->
+        <div class="home-top-header">
+            <div class="header-title">Rainbow Royal Star</div>
+            <div class="header-right-icons">
+                <span class="icon-heart">❤️</span>
+                <span class="icon-chat">💬</span>
+            </div>
+        </div>
+
+        <!-- 2. रील्स/कैमरा बार -->
+        <div class="reels-quick-bar">
+            <span class="reels-text">🎬 Reels Engine</span>
+            <span class="camera-btn">📷</span>
+        </div>
+
+        <!-- 3. स्क्रॉल होने वाला मुख्य फ़ीड और धमाका ज़ोन -->
+        <div class="main-content-scroll">
+            <div class="creator-account-row">
+                <div class="glowing-star-frame">
+                    <div class="star-user-photo">👑</div>
+                </div>
+                <div>
+                    <div style="font-weight: bold; font-size: 14px;">Riya_Star ★</div>
+                    <div style="font-size: 11px; color: #66fcf1;">Followers: सतरंगी 8.5K</div>
+                </div>
+            </div>
+
+            <!-- धमाका ज़ोन (लाइक करने पर यहाँ सतरंगी दिल उड़ेंगे) -->
+            <div class="post-display-zone" id="burstZone">
+                <span style="font-size: 13px; color:#555;">[ यहाँ रील या पोस्ट वीडियो दिखेगा ]</span>
+            </div>
+        </div>
+
+        <!-- 4. एक्शन और कमेंट बार (सतरंगी लाइक + इमोजी इंजन) -->
+        <div class="action-control-panel">
+            <div>
+                <!-- सतरंगी लाइक बटन -->
+                <div class="rainbow-like-trigger" onclick="spawnRainbowHeart(event)">❤️</div>
+            </div>
+            <!-- कलर बदलने वाला कमेंट इमोजी बार -->
+            <div class="emoji-customizer-bar">
+                <div class="custom-emoji" onclick="toggleEmojiColor(this)">😂</div>
+                <div class="custom-emoji" onclick="toggleEmojiColor(this)">🔥</div>
+                <div class="custom-emoji" onclick="toggleEmojiColor(this)">👑</div>
+                <div class="custom-emoji" onclick="toggleEmojiColor(this)">👏</div>
+            </div>
+        </div>
+
+        <!-- 5. नीचे का नेविगेशन (सितारों के फूटने वाले इफ़ेक्ट के साथ) -->
+        <div class="perfect-bottom-nav">
+            <div class="bottom-icon-wrapper" onclick="playNavStars(this)">🏠</div>
+            <div class="bottom-icon-wrapper" onclick="playNavStars(this)">🎬</div>
+            <div class="bottom-icon-wrapper" onclick="playNavStars(this)" style="color:#ffff00;">★</div>
+            <div class="bottom-icon-wrapper" onclick="playNavStars(this)">🔍</div>
+            <div class="bottom-icon-wrapper" onclick="playNavStars(this)">👤</div>
+        </div>
+
+    </div>
+
+    <!-- जादुई लॉजिक्स का जावास्क्रिप्ट इंजन -->
+    <script {nonce}>
+        // 1. सतरंगी लाइक धमाका लॉजिक
+        function spawnRainbowHeart(event) {
+            const zone = document.getElementById('burstZone');
+            const heart = document.createElement('div');
+            heart.classList.add('burst-heart');
+[15/10, 11:49 am] sagerkumarsager745 Up: <!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rainbow Royal Star - Live Core Engine</title>
+    <style>
+        body {
+            background-color: #030306;
+            color: #ffffff;
+            font-family: 'Segoe UI', Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            overflow: hidden;
+        }
+
+        /* 📱 आपका मोबाइल फ्रेम (चमकती सतरंगी बॉर्डर) */
+        .master-phone-frame {
+            width: 360px;
+            height: 760px;
+            background: #000000;
+            border-radius: 35px;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 0 35px rgba(0, 255, 255, 0.3);
+            border: 3px solid transparent;
+            border-image: linear-gradient(45deg, #ff007f, #7f00ff, #00ffff, #ffff00) 1;
+        }
+
+        /* ⬆️ टॉप हेडर */
+        .home-top-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 20px;
+            border-bottom: 1px solid #12131a;
+            background: #06070d;
+            z-index: 10;
+        }
+        .header-title {
+            font-size: 20px;
+            font-weight: 900;
+            background: linear-gradient(to right, #ff007f, #00ffff, #ffff00);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        /* 🎬 रील्स कंटेनर (स्क्रॉल इंजन के लिए) */
+        .reels-scroll-zone {
+            flex: 1;
+            overflow-y: scroll;
+            scroll-snap-type: y mandatory;
+            background: #000;
+        }
+        /* स्क्रॉल बार छुपाने के लिए */
+        .reels-scroll-zone::-webkit-scrollbar { display: none; }
+
+        .reel-video-page {
+            width: 100%;
+            height: 540px; /* फ़ीड और एक्शन बार के बीच का एरिया */
+            scroll-snap-align: start;
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: #050508;
+        }
+        video {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        /* 🌟 सतरंगी चमकता स्टार प्रोफाइल */
+        .creator-overlay {
+            position: absolute;
+            left: 15px;
+            bottom: 15px;
+            z-index: 5;
+        }
+        .glowing-star-frame {
+            width: 45px;
+            height: 45px;
+            background: linear-gradient(45deg, #ffff00, #ff007f, #00ffff);
+            clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            filter: drop-shadow(0 0 8px #ffff00);
+        }
+        .star-user-photo {
+            width: 28px;
+            height: 28px;
+            background: #000;
+            clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+            color: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 11px;
+        }
+
+        /* 🎈 ऊपर उठने वाले सतरंगी दिल */
+        .burst-heart {
+            position: absolute;
+            font-size: 40px;
+            pointer-events: none;
+            animation: floatUp 0.8s ease-out forwards;
+            z-index: 99;
+        }
+        @keyframes floatUp {
+            0% { transform: translate(0, 0) scale(0.5); opacity: 1; }
+            100% { transform: translate(var(--dx), -180px) scale(1.5); opacity: 0; }
+        }
+
+        /* 💬 लाइव कमेंट बॉक्स और डिस्प्ले एरिया */
+        .live-comments-display {
+            position: absolute;
+            bottom: 80px;
+            left: 15px;
+            max-height: 100px;
+            overflow-y: auto;
+            width: 220px;
+            z-index: 5;
+            font-size: 12px;
+            background: rgba(0,0,0,0.4);
+            border-radius: 10px;
+            padding: 5px;
+        }
+        .comment-line {
+            margin: 3px 0;
+            background: linear-gradient(to right, #00ffff, #ff007f);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-weight: bold;
+        }
+
+        /* 👑 नीचे का एक्शन पैनल */
+        .action-control-panel {
+            background: #090a14;
+            padding: 12px;
+            border-top: 1px solid #15182b;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            z-index: 10;
+        }
+        .input-row {
+            display: flex;
+            gap: 10px;
+        }
+        .comment-input {
+            flex: 1;
+            background: #121424;
+            border: 1px solid #222644;
+            border-radius: 8px;
+            color: white;
+            padding: 6px 10px;
+        }
+        .send-btn {
+            background: #ff007f;
+            border: none;
+            color: white;
+            border-radius: 8px;
+            padding: 0 12px;
+            cursor: pointer;
+        }
+
+        /* ⬇️ नीचे का सटीक 5-आइकॉन नेविगेशन बार */
+        .perfect-bottom-nav {
+            background: #05060b;
+            display: flex;
+            justify-content: space-around;
+            padding: 15px 0;
+            border-top: 1px solid #12131f;
+            z-index: 10;
+        }
+        .bottom-icon-wrapper { font-size: 24px; cursor: pointer; position: relative; user-select: none; }
+        .sparkle-star {
+            position: absolute; color: #ffff00; font-size: 12px; text-shadow: 0 0 5px #ff007f;
+            animation: popStar 0.5s ease-out forwards;
+        }
+        @keyframes popStar {
+            0% { transform: translate(0, 0) scale(0); opacity: 1; }
+            100% { transform: translate(var(--sx), var(--sy)) scale(1.3); opacity: 0; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="master-phone-frame">
+        
+        <!-- 1. टॉप हेडर -->
+        <div class="home-top-header">
+            <div class="header-title">Rainbow Royal Star</div>
+            <div style="font-size: 22px; cursor: pointer; color: #ff007f;">❤️</div>
+        </div>
+
+        <!-- 2. 🎬 असली रील्स स्क्रॉल ज़ोन (यहाँ उंगली से स्क्रॉल करने पर वीडियो बदलेगा) -->
+        <div class="reels-scroll-zone">
+            <!-- रील 1 -->
+            <div class="reel-video-page" onclick="spawnRainbowHeart(event)">
+                <!-- सैंपल के लिए इंटरनेट से 2 असली सुंदर वीडियो लिंक लगा दिए हैं ताकि पापा के फोन में वीडियो चले -->
+                <video src="https://mixkit.co" loop autoplay muted></video>
+                <div class="creator-overlay">
+                    <div class="glowing-star-frame"><div class="star-user-photo">👑</div></div>
+                    <div style="font-weight:bold; margin-top:5px; font-size:14px; text-shadow:0 0 5px #000;">Riya_Star ★</div>
+                </div>
+                <div class="live-comments-display" id="commentsBox1"></div>
+            </div>
+            
+            <!-- रील 2 -->
+            <div class="reel-video-page" onclick="spawnRainbowHeart(event)">
+                <video src="https://mixkit.co" loop muted></video>
+                <div class="creator-overlay">
+                    <div class="glowing-star-frame" style="background:linear-gradient(45deg, #00ffff, #7f00ff);"><div class="star-user-photo">⭐</div></div>
+                    <div style="font-weight:bold; margin-top:5px; font-size:14px; text-shadow:0 0 5px #000;">Aman_Official ★</div>
+                </div>
+                <div class="live-comments-display" id="commentsBox2"></div>
+            </div>
+        </div>
+
+        <!-- 3. एक्शन और लाइव कमेंट इनपुट बार -->
+        <div class="action-control-panel">
+            <div class="input-row">
+                <input type="text" class="comment-input" id="customComment" placeholder="सतरंगी कमेंट लिखें...">
+                <button class="send-btn" onclick="submitLiveComment()">भेजें</button>
+            </div>
+            <!-- कलर बदलने वाला कमेंट इमोजी बार -->
+            <div style="display:flex; gap:12px; margin-top:5px;">
+                <div style="font-size:22px; cursor:pointer;" onclick="this.style.filter='hue-rotate(90deg)'">😂</div>
+                <div style="font-size:22px; cursor:pointer;" onclick="this.style.filter='hue-rotate(180deg)'">🔥</div>
+                <div style="font-size:22px; cursor:pointer;" onclick="this.style.filter='hue-rotate(270deg)'">👑</div>
+            </div>
+        </div>
+
+        <!-- 4. नीचे का नेविगेशन (गैलरी से असली फोटो पोस्ट करने वाले बटन के साथ) -->
+        <div class="perfect-bottom-nav">
+            <div class="bottom-icon-wrapper" onclick="playNavStars(this)">🏠</div>
+            <div class="bottom-icon-wrapper" onclick="playNavStars(this)">🎬</div>
+            
+            <!-- ★ बीच का बटन दबाते ही फोन की असली गैलरी खुल जाएगी फोटो पोस्ट करने के लिए -->
+            <label class="bottom-icon-wrapper" style="color:#ffff00; cursor:pointer;">
+                ★ <input type="file" accept="image/*" style="display:none;" onchange="uploadPhotoTrigger(this)">
+            </label>
+            
+            <div class="bottom-icon-wrapper" onclick="playNavStars(this)">🔍</div>
+            <div class="bottom-icon-wrapper" onclick="playNavStars(this)">👤</div>
+        </div>
+
+    </div>
+
+    <!-- जादुई लॉजिक्स का बैकएंड इंजन -->
+    <script {nonce}>
+        // 1. सतरंगी दिल ब्लास्ट लॉजिक
+        function spawnRainbowHeart(event) {
+            const currentVideoPage = event.currentTarget;
+[15/10, 11:54 am] sagerkumarsager745 Up: 👑 साटा (Sata) ऐप को लाइव टेस्ट करने की पूरी हिंदी गाइड 👑
+
+रात को जब तुम ट्यूशन से पढ़ कर वापस आओगी, तो तुम्हें बस ये 4 आसान काम करने हैं:
+
+* काम 1: बड़े वाले कोडिंग को कॉपी करना
+  - जो सबसे बड़ा वाला कोडिंग मैंने तुम्हें भेजा है (जिसमें वीडियो ऊपर-नीचे खिसकाने, लाइव कमेंट लिखने और फोन की गैलरी खोलने वाला सिस्टम फिट है), उसे पूरा कॉपी करके अपने पास रख लो।
+
+* काम 2: गिटहब पर index.html नाम की नई फ़ाइल बनाना
+  - अपने मोबाइल के क्रोम ब्राउज़र में गिटहब (GitHub) की वेबसाइट खोलो।
+  - अपने 'Sata' नाम के प्रोजेक्ट के अंदर जाओ।
+  - वहाँ 'Add file' (फ़ाइल जोड़ें) पर क्लिक करके 'Create new file' (नई फ़ाइल बनाएं) को चुनो।
+  - ऊपर के छोटे बॉक्स में फ़ाइल का नाम लिखो: index.html
+  - नीचे के बड़े बॉक्स में वह पूरा बड़ा कोडिंग पेस्ट (Paste) कर दो।
+  - स्क्रीन को थोड़ा ऊपर खींचकर हरे रंग का 'Commit changes' (बदलाव सुरक्षित करें) बटन दबाकर सेव कर दो।
+
+* काम 3: इंटरनेट पर फ्री लाइव लिंक चालू करना (GitHub Pages)
+  - फ़ाइल सेव होने के बाद, अपने 'Sata' प्रोजेक्ट में सबसे ऊपर बने 'Settings' (चर्खी या गियर जैसा आइकॉन) पर क्लिक करो।
+  - बाईं तरफ जो लंबी लिस्ट खुलेगी, उसमें नीचे जाकर 'Pages' (पेजेस) वाले बटन पर टच करो।
+  - वहाँ 'Branch' (ब्रांच) के नीचे जहाँ 'None' लिखा है, उस पर क्लिक करके 'main' या 'master' को चुन लो और बगल में 'Save' (सुरक्षित करें) का बटन दबा दो।
+  - 1 मिनट का इंतज़ार करके पेज को दोबारा लोड (रीफ़्रेश) करो, तुम्हें तुम्हारे ऐप की असली लाइव इंटरनेट लिंक लिखी हुई मिल जाएगी!
+
+* काम 4: पापा के फोन में पूरा सिस्टम हिलाकर चेक करना
+  - गिटहब से जो लाइव इंटरनेट लिंक मिलेगी, उसे व्हाट्सएप के ज़रिए अपने पापा के फोन पर भेज दो।
+  - पापा के फोन में उस लिंक पर क्लिक करते ही तुम्हारा 'Rainbow Royal Star' ऐप लाइव चालू हो जाएगा।
+  - अब अपनी उंगली से वीडियो को ऊपर-नीचे खिसकाकर देखो, लाइक का बटन दबाकर सतरंगी दिलों का धमाका देखो, कमेंट बॉक्स में लिखकर लाइव कमेंट भेजो और पूरे सिस्टम को अच्छे से जांच लो!
